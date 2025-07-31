@@ -11,7 +11,6 @@ const stars = [
   { top: "15%", left: "50%", size: 35, rotate: 60 },
   { top: "60%", left: "70%", size: 91, rotate: -45 },
   { top: "40%", left: "25%", size: 60, rotate: 15 },
-  // Add more stars if you want!
 ];
 
 export default function StarryBackground() {

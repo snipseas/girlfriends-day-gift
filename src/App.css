@@ -96,7 +96,6 @@ body {
   inset: 0;
   z-index: 0;
   pointer-events: none;
-  /* Multiple SVG stars, various positions, opacities, and rotations */
 }
 
 .starry-bg svg {
